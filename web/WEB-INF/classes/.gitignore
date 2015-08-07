@@ -3,11 +3,11 @@
 /applicationContext.xml
 /commons-logging.properties
 /config
-/net
 /config.properties
 /init.sql
 /log4j.properties
 /mybatis-config.xml
+/net
 /qqconnectconfig.properties
 /spy.properties
 /struts.xml
