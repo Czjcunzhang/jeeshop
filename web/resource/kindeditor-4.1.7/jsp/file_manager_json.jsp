@@ -17,7 +17,7 @@
  *
  */
  
-boolean oss = true;
+boolean oss = false;
 if(oss){
 	
 	OSSFileManagerJson ossManager = new OSSFileManagerJson();

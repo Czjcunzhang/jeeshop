@@ -1,6 +1,6 @@
 #jeeshop
 
-简介：jeeshop是一套使用Java语言开发的独立网店系统，jeeshop致力于为个人或企业提供免费、好用的网店系统系统，该系统采用较为流行的J2EE框架 struts2+ myBatis+ spring 进行合理的组合开发,欢迎学习和试用。
+简介：mbcShop是一套使用Java语言开发的独立网店系统，mbcShop致力于为个人或企业提供免费、好用的网店系统系统，该系统采用较为流行的J2EE框架 struts2+ myBatis+ spring 进行合理的组合开发,欢迎学习和试用。
 
 
 <div>
@@ -28,12 +28,12 @@
 				</div>
 
 
-官网地址：http://www.jeeshop.net
+官网地址：http://www.mbcShop.com
 
 demo演示环境地址：
 
-大屏幕：http://demo.jeeshop.net/?responsive=y
+大屏幕：http://demo.mbcShop.net/?responsive=y
 
-小屏幕：http://demo.jeeshop.net/?responsive=n
+小屏幕：http://demo.mbcShop.net/?responsive=n
 
-下载地址：http://yun.baidu.com/share/link?shareid=1009909610&uk=2770653384
+下载地址：http://yun.mbcShop.com/share/link?shareid=1009909610&uk=2770653384
