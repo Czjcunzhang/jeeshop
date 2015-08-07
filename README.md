@@ -1,4 +1,4 @@
-#jeeshop
+#mbcShop
 
 简介：mbcShop是一套使用Java语言开发的独立网店系统，mbcShop致力于为个人或企业提供免费、好用的网店系统系统，该系统采用较为流行的J2EE框架 struts2+ myBatis+ spring 进行合理的组合开发,欢迎学习和试用。
 
